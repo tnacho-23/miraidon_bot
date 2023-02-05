@@ -145,6 +145,8 @@
 
     <gazebo reference="caster_wheel_1">
         <material> Gazebo/White</material>
+        <mu1 value="0.001"/>
+        <mu2 value="0.001"/>
     </gazebo>
 
      <!-- Caster Wheel 2-->
@@ -174,6 +176,8 @@
 
     <gazebo reference="caster_wheel_2">
         <material> Gazebo/White</material>
+        <mu1 value="0.001"/>
+        <mu2 value="0.001"/>
     </gazebo>
 
     <!-- Caster Wheel 3-->
@@ -203,6 +207,8 @@
 
     <gazebo reference="caster_wheel_3">
         <material> Gazebo/White</material>
+        <mu1 value="0.001"/>
+        <mu2 value="0.001"/>
     </gazebo>
 
     <!-- Caster Wheel 4-->
@@ -232,5 +238,7 @@
 
     <gazebo reference="caster_wheel_4">
         <material> Gazebo/White</material>
+        <mu1 value="0.001"/>
+        <mu2 value="0.001"/>
     </gazebo>
 </robot>
