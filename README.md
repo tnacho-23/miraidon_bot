@@ -4,4 +4,6 @@ Miraidon: from the japanese word "mirai" (future) and the sufix "-don" (tooth), 
 
 In this project, Miraidon will abandon his Pokémon form to become a robot. 
 
+The project is being developed using ROS2: Humble.
+
 All the information and advances of the project can be found in this repository.
