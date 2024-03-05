@@ -10,7 +10,7 @@ All the information and advances of the project can be found in this repository.
 
 ### Develeoper station setup
 - Install [Ubuntu 22.04](ubunu.com/download/desktop)
-- Install ROS2 Humble following the [installation guide](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html)
+- Install ROS2 Humble following the [installation guide](https://docs.ros.org/en/humble/Installation.html)
 - Install the required packages running the following commands on a new terminal:
 ```
 sudo apt-get install ros-humble-gazebo-ros
