@@ -15,6 +15,7 @@ All the information and advances of the project can be found in this repository.
 ```
 sudo apt-get install ros-humble-gazebo-ros
 sudo apt-get install ros-humble-gazebo-pkgs
+sudo apt install ros-humble-gazebo-plugins
 sudo apt-get install ros-humble-xacro
 sudo apt-get install ros-humble-joint-state-publisher-gui
 sudo apt-get install ros-humble-teleop-twist-keyboard
