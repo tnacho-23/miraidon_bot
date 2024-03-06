@@ -45,7 +45,7 @@ For doing it, you can run the following commands on a new terminal:
 
 ```
 source /opt/ros/humble/setup.bash
-source devel_ws/dev/install/setup.bash
+source devel_ws/install/setup.bash
 ros2 launch miraidon_bot miraidon_sim.launch.py
 ```
 
